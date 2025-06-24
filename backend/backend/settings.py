@@ -58,7 +58,13 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'api',
+    'music',
+    'playlist',
+    'recommendations',
+    'streaming',
+    'users',
     'rest_framework',
+    'subscriptions',
     'rest_framework_simplejwt',
     'corsheaders',
 ]
